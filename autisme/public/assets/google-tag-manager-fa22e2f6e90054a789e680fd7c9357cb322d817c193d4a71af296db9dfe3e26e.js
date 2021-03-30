@@ -1,2 +1,0 @@
-!function(){var e=document.getElementById("data-google-tag-manager"),t=JSON.parse(e.dataset.dataLayer);window.dataLayer=[t],function(e,t,a,n,g){e[n]=e[n]||[],e[n].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});n=t.getElementsByTagName(a)[0],a=t.createElement(a);a.async=!0,a.src="https://www.googletagmanager.com/gtm.js?id="+g,n.parentNode.insertBefore(a,n)}(window,document,"script","dataLayer",e.dataset.containerId)}();
-//# sourceMappingURL=/assets/google-tag-manager-fa22e2f6e90054a789e680fd7c9357cb322d817c193d4a71af296db9dfe3e26e.js.map
